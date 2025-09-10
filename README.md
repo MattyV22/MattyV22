@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 
-**MattyV22/MattyV22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**MattyV22/MattyV22** is a ✨ _special_ ✨ repository
 
 - 🔭 I’m currently working on Cloud Computing
 - 🌱 I’m currently learning AWS Certified Cloud Practitioner
